@@ -1,0 +1,4 @@
+[submodule "CoreEngine"]
+	path = CoreEngine
+	url = https://github.com/tanahara0310/CoreEngine.git
+	shallow = true

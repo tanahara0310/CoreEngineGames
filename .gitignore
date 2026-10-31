@@ -1,0 +1,10 @@
+# Visual Studio・VS Code が作るもの
+.vs/
+*.user
+
+# Python のキャッシュ
+__pycache__/
+*.pyc
+
+# Blender のバックアップ
+*.blend1
